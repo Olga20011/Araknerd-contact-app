@@ -1,0 +1,9 @@
+.zip
+log/
+.env
+bin/
+img/
+_keys/
+uploads/
+*.txt
+sys/rexum/__pycache__/
